@@ -15,7 +15,7 @@ import java.util.Scanner;
  * Clase de Floyd
  * @version 1.0
  * Esta es la clase de Floyd
- * @author Andrea Elias 1748
+ * @author Andrea Elias 
  */
 
 public class Floyd {
